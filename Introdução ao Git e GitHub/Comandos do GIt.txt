@@ -1,0 +1,9 @@
+git clone <link> -> Clona um repositório para a sua máquina
+
+git status -> Verifica o status do arquivos do repositório
+
+git add * -> Adiciona todos os arquivos modificados para staged
+
+git commit -m 'algum texto' -> Commita as aletrações no seu repositório local
+
+git push origin main -> empurra as modificações para o GitHub
