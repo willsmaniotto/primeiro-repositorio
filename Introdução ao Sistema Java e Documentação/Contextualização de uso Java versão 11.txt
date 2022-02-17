@@ -1,0 +1,6 @@
+Enhancemente FOR:
+for (String i : items){
+   System.out.println(i)
+}
+
+items é uma lista e aí não precisa do index pra percorrer toda lista

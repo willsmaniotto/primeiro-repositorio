@@ -1,0 +1,14 @@
+Comentário em linha: //
+
+Comentário em bloco: /** ....... */
+
+Javadoc: Utiliza tags pra formar um HTML da documentação
+Javadoc tags: Sempre começa com um @
+ - @author
+ - @param
+ - @return
+
+Como criar o javadoc: javadoc -d javadoc/ -sourcepath src/ -subpackages com.dio
+ -d javadoc/ -> pasta de destino
+ -sourcepath src/ -> pasta de destino
+ 
