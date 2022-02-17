@@ -1,2 +1,2 @@
-# primeiro-repositorio
-Respositório para o desafio do DIO xxxxxx
+# Desafio do primeiro repositório
+Repositório criado com o objetivo de aprimorar os conhecimentos de Git/GitHub
